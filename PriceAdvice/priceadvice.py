@@ -1,5 +1,4 @@
 #THIS DOES NOT WORK ANYMORE!!! api got changed completely and there's no way I'm rewriting this. its pretty crappy anyways
-#holy fuck i need to add docstrings this looks like shit
 
 import os
 from dotenv import load_dotenv
